@@ -38,7 +38,7 @@ I enjoy building real-world projects using Java, JSP, and databases, and I am co
 ---
 
 ## 📫 Contact & Profile
-- GitHub: https://github.com/awaiskhatti
+- GitHub: https://github.com/AWAIS3838
 - Location: Pakistan  
 
 ---
